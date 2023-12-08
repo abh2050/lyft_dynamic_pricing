@@ -3,6 +3,9 @@
 
 This project is a Lyft trip cost predictor powered by a Linear Regression model. It allows users to estimate the cost of a Lyft trip based on various input parameters, including trip distance, pickup day of the week, pickup hour, and whether it is during peak hours.
 
+## app
+https://lyftdynamic.streamlit.app/
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
