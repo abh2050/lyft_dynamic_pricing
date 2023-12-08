@@ -33,6 +33,8 @@ You can install the required Python packages by running:
 
 ```bash
 pip install -r requirements.txt
+```bash
+https://lyftdynamic.streamlit.app/
 
 Installation
 Clone the repository to your local machine:
